@@ -1,0 +1,9 @@
+{
+  "title": "FeNAgO Container",
+  "headline": "Single Container",
+  "subline": "Purchase FeNAgO AI Finance Container",
+  "sr-legal-text": "Number of copies (max 10)",
+  "button": {
+    "submit": "Buy for {{total}}"
+  }
+}
